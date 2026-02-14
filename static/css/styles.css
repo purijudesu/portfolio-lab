@@ -845,12 +845,8 @@ footer p {
     .hero-buttons {
         flex-direction: row; /* Keep side by side */
         gap: 0.75rem; /* vertical spacing between buttons */
-        width: 100%;
     }
     .hero-button {
-        width: 100%;
-        max-width: 250px;
-        margin: 0 auto;
         padding: 0.9rem 1.8rem; /* Slightly smaller */
     }
     .content h1 {
